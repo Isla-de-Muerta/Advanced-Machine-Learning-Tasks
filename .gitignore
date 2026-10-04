@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+du*/train.csv
+du*/evaluate.csv
+*.h5
+*.keras
+hms.zip
